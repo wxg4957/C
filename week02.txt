@@ -1,0 +1,3 @@
+2주차
+-ls cat touch
+-status init add commit config log push
